@@ -1,0 +1,21 @@
+.none {
+}
+.header {
+    .headerBottom {
+        .row {
+            .menu {
+                .none {
+                    color:white;
+                    &:hover{
+                        background-color: none;
+                    }
+                }
+                .ant-btn:hover{
+                    background: none;
+                    border: none;
+                }
+                
+            }
+        }
+    }
+}

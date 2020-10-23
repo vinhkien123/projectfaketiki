@@ -1,0 +1,24 @@
+.Google_login{
+    button {
+        width: 100%;
+        // background-color: rgb(223, 74, 50) !important;
+        margin-bottom: 5px;
+        font-size: 12px !important;
+        content: "";
+        font-weight: 300;
+        background: rgb(223, 74, 50) !important;
+    }
+    div {
+        background: none !important;
+        margin-right: unset !important; 
+        padding: unset !important; 
+        margin-left: 10px !important; 
+        border-radius: unset !important;
+    }
+    span {
+        padding: 7px !important;
+        text-align: center !important;
+        width: 100% !important;
+        color: white !important;
+    }
+} 

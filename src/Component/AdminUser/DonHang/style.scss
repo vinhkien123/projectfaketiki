@@ -1,0 +1,14 @@
+.ant-modal-body {
+    display: flex;
+    justify-content: space-between;
+    .btnone {
+        background: none;
+        border: none;
+        .textIcon {
+            font-size: 20px;
+            svg {
+                color: rgb(253, 216, 53) !important;
+            }
+        }
+    }
+}
